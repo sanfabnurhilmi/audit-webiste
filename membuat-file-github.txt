@@ -1,5 +1,5 @@
 - Fitur yang lengkap 
 - Kualitas Design Website yang interaktif
 - Url website yang sesuai
-- Editing pada isi file juga bisa dilakukan 
-- menambahkan kalimat atau mengahapus kalimat 
+
+- coba menghapus kalimat pada file yang sudah dibuat
